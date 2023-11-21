@@ -6,7 +6,7 @@ export default function Home() {
     <main className='lg:flex lg:w-full'>
         <div className='lg:sticky top-0 flex justify-center items-center h-screen w-full lg:w-9/12'>
             <div style={{ borderRadius: '30px' }} className='bg-blueb flex flex-col justify-center items-center w-11/12 h-5/6 lg:w-2/3 lg:h-3/5'>
-                <Image src="/aa40f746f86f737fcff00b3f2a0c71be.webp" width={120} height={120} style={{ borderRadius: '50%' }} alt='stripsior' ></Image>
+                <Image src="./aa40f746f86f737fcff00b3f2a0c71be.webp" width={120} height={120} style={{ borderRadius: '50%' }} alt='stripsior' ></Image>
                 <h1 className='font-extrabold text-3xl' > stripsior </h1>
                 <p className='font-semibold text-xl'>Young fullstack developer</p>
 
